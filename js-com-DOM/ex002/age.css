@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    border: 1px solid black;
+    box-shadow: 2px 2px 3px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    height: 350px;
+    background-color: white;
+}
+
+#age{
+    margin-left: 20px;
+}
+
+#result{
+    margin-left: 20px;
+    display: flex;
+}
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+#photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
