@@ -8,6 +8,7 @@ header{
     text-align: center;
 }
 
+
 section{
     background-color: white;
     border-radius: 10px;
@@ -21,4 +22,21 @@ footer{
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+#img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+#photo{
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+}
+
+#msg{
+    text-align: center;
+    padding: 6px;
 }
